@@ -6,8 +6,7 @@
 Here are some ideas to get you started:-->
 - 🏫 I'm in my 2nd year CSE program at IIIT Delhi.
 - 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on making cool projects.
 - 💬 Ask me about DSA, Web development, Java. 
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/_nikhil.kumar19).
 - ⚡ Fun fact: Always feeling sleepy.
